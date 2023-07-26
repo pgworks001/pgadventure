@@ -8,11 +8,11 @@ function SignUp() {
         <form>
            <h3 className='text-center'>Create New Account</h3>
            <div className='mb-2'>
-            <label htmlFor='fname'>Email</label>
+            <label htmlFor='fname'>First Name</label>
             <input type='text' className='form-control'  placeholder='Enter First Name' />
            </div>
            <div className='mb-2'>
-            <label htmlFor='lname'>Email</label>
+            <label htmlFor='lname'>Last Name</label>
             <input type='text' className='form-control'  placeholder='Enter Last Name' />
            </div>
            <div className='mb-2'>
